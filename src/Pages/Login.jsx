@@ -6,7 +6,7 @@ export default function Login() {
         <>
             <Hero
                 height="70vh"
-                img="../public/img/3.jpg"
+                img="../../public/img/3.jpg"
                 title="Log in"
                 btn={{ show: false, content: '' }}
             />

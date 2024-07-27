@@ -6,7 +6,7 @@ export default function Signup() {
         <>
             <Hero
                 height="70vh"
-                img="../public/img/Contact.jpg"
+                img="../../public/img/Contact.jpg"
                 title="Sign up"
                 btn={{ show: false, content: '' }}
             />

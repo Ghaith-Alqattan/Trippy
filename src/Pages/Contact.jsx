@@ -5,7 +5,7 @@ export default function Contact() {
         <>
             <Hero
                 height="70vh"
-                img="../public/img/Contact.jpg"
+                img="../../public/img/Contact.jpg"
                 title="Contact"
                 btn={{ show: false, content: '' }}
             />

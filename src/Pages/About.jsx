@@ -5,7 +5,7 @@ export default function About() {
         <>
             <Hero
                 height="70vh"
-                img="../public/img/about.jpg"
+                img="../../public/img/About.jpg"
                 title="About"
                 btn={{ show: false, content: '' }}
             />

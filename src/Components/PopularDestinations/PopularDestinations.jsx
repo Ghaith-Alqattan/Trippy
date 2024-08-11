@@ -1,9 +1,9 @@
 import React from 'react'
 import './PopularDestinations.css'
-import pic1 from '../../../public/img/1.jpg'
-import pic2 from '../../../public/img/2.jpg'
-import pic3 from '../../../public/img/3.jpg'
-import pic4 from '../../../public/img/4.jpg'
+import pic1 from '../../assets/img/1.jpg'
+import pic2 from '../../assets/img/2.jpg'
+import pic3 from '../../assets/img/3.jpg'
+import pic4 from '../../assets/img/4.jpg'
 import PopularContainer from '../PopularContainer/PopularContainer'
 export default function PopularDestinations() {
     return (

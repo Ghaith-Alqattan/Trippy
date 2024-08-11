@@ -1,12 +1,12 @@
 import Form from "../Components/Form/Form";
 import Hero from "../Components/Hero/Hero";
-
+import signupHero from "../assets/img/Contact.jpg"
 export default function Signup() {
     return (
         <>
             <Hero
                 height="70vh"
-                img="../../public/img/Contact.jpg"
+                img={signupHero}
                 title="Sign up"
                 btn={{ show: false, content: '' }}
             />

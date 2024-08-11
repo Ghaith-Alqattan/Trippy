@@ -1,11 +1,12 @@
 import Hero from '../Components/Hero/Hero'
 import PopularContainer from '../Components/PopularContainer/PopularContainer'
+import aboutHero from "../assets/img/About.jpg"
 export default function About() {
     return (
         <>
             <Hero
                 height="70vh"
-                img="../../public/img/About.jpg"
+                img={aboutHero}
                 title="About"
                 btn={{ show: false, content: '' }}
             />
